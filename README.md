@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm a developer who dabbles in just about everythi
   - ⚛️ React enthusiast (I can't promise I only use useEffect when absolutely necessary)
   - 🎨 SASS wizard (BEM methodology, I personally hate kebab-case, in fact if you don't use camelCase, i hate you)
   - 🌐 Web explorer (if it runs in a browser, I’m interested)
+  - 🤖 Bot Maker, I love making bots that interact with people and automate tasks, i don't know why.
 - **Always learning:** I love diving into new tech and weird projects. If it’s new to me, I’m probably already knee-deep in for hours without noticing, even when I don't have anything specifically to do.
 
 ## 🚀 Featured Projects

@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm a developer who dabbles in just about everythi
 ## 🚀 Featured Projects
 
 - [rol](https://github.com/ddm19/rol): A custom webpage for my D&D games. Roll for initiative! [WIP]
+- [TheDM](https://www.thedm.es): My portfolio, where you can see my projects and hire my services.
 - [bunkatcg](https://github.com/ddm19/bunkatcg): An e-commerce project—because someone has to pay for my 3D printing filament.
 
 ## 🎲 Hobbies
@@ -27,7 +28,8 @@ Welcome to my GitHub profile! I'm a developer who dabbles in just about everythi
 ## 🤝 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/dani-domenech-moreno-05aa011a8/)
+- [TheDM](https://www.thedm.es/#contact)
 
 ---
 Feel free to steal my code, it isn't fully mine anyway.
-Thanks for visiting—feel free to explore my repos or drop me a message!
+Thanks for visiting, feel free to explore my repos or drop me a message!
